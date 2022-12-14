@@ -154,7 +154,7 @@ plt.show()
 accuracy1 = r2_score(y_test, predict1)
 print("Accuracy of Simple Linear Regression:", accuracy1)
      
-Accuracy of Simple Linear Regression: 0.998490591702864
+Accuracy of Simple Linear Regression: 0.998490591702864,
 Support Vector Regression
 
 
